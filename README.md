@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on multiple individual projects as well as goup projects
+- 🌱 I’m currently learning Python, React JS and Data Scinece
+- 👯 I’m looking to collaborate on productive projects
+- 🤔 I’m looking for help with my upcoming projects
+- 💬 Ask me about backend development or database related queries
+- 📫 How to reach me: EMAIL : devil9448gamer@gmail.com
+- 😄 Pronouns: Divy Patel
+- ⚡ Fun fact: I am not a gamer as my alternative email suggests
 <!--
 **Divy0409/Divy0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
