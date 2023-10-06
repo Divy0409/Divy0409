@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with my upcoming projects
 - 💬 Ask me about backend development or database related queries
 - 📫 How to reach me: EMAIL : devil9448gamer@gmail.com
-- 😄 Pronouns: Divy Patel
-- ⚡ Fun fact: I am not a gamer as my alternative email suggests
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am neither a gamer nor an enime lover as my profile suggest
 <!--
 **Divy0409/Divy0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
