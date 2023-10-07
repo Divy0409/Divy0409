@@ -6,7 +6,7 @@
 - 💬 Ask me about backend development or database related queries
 - 📫 How to reach me: EMAIL : devil9448gamer@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am neither a gamer nor an enime lover as my profile suggest
+- ⚡ Fun fact: I am neither a gamer nor an enime enthusiast as my profile suggest
 <!--
 **Divy0409/Divy0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
