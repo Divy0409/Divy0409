@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on productive projects
 - 🤔 I’m looking for help with my upcoming projects
 - 💬 Ask me about backend development or database related queries
-- 📫 How to reach me: EMAIL : devil9448gamer@gmail.com
+- 📫 How to reach me: EMAIL : devil9448gamer@gmail.com (not my primary email)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am neither a gamer nor an enime enthusiast as my profile suggest. I am a football club FC Barcelona fan.
 
