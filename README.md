@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on multiple individual projects as well as goup projects
-- 🌱 I’m currently learning Python, React JS and Data Scinece
+- 🔭 I’m currently working on multiple individual projects as well as group projects
+- 🌱 I’m currently learning Python, React JS, Node JS and Data Scinece (at Michigan Technological University)
 - 👯 I’m looking to collaborate on productive projects
 - 🤔 I’m looking for help with my upcoming projects
 - 💬 Ask me about backend development or database related queries
